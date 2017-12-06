@@ -1,5 +1,5 @@
 # CS411-Fall2017-Project-Track1-Demo
-CS 411 Fall 2017 Project Track1 Demo - Easycook by team GSON
+### CS 411 Fall 2017 Project Track1 Demo - Easycook by team GSON
 
 __ecapp.py__ is main web application for our website.
 
